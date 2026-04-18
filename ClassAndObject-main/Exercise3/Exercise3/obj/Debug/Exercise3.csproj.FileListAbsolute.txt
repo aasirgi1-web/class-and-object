@@ -1,0 +1,15 @@
+D:\25.61.0283\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+D:\25.61.0283\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+D:\25.61.0283\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+D:\25.61.0283\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+D:\25.61.0283\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.SuggestedBindingRedirects.cache
+D:\25.61.0283\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+D:\25.61.0283\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+D:\25.61.0283\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+D:\Programing\ClassAndObject-main\ClassAndObject-main\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
